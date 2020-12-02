@@ -1,5 +1,5 @@
-# Email-Spam-Classifier-SVM 📩 ❌
-[cover](https://github.com/raaaouf/Email-Spam-Classifier/blob/main/68747470733a2f2f6170706c6965646d616368696e656c6561726e696e672e66696c65732e776f726470726573732e636f6d2f323031372f30312f7370616d2d66696c7465722e706e673f773d363230.png)
+# Email-Spam-Classifier-using SVM 📩 ❌
+![cover](https://github.com/raaaouf/Email-Spam-Classifier/blob/main/68747470733a2f2f6170706c6965646d616368696e656c6561726e696e672e66696c65732e776f726470726573732e636f6d2f323031372f30312f7370616d2d66696c7465722e706e673f773d363230.png)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%237159c1">
